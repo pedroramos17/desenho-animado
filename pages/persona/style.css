@@ -64,7 +64,7 @@
   -ms-transform: scale(0);
   transform: scale(0);
 
-  -webkit-backface-visibility: hidden; /*for a smooth font */
+  --webkit-backface-visibility: hidden; /*for a smooth font */
 }
 
 .ch-info h3 {
